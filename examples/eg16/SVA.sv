@@ -1,3 +1,12 @@
+//------------------------------------------------------------------------------
+//File       : SVA.sv
+//Author     : Swamarpan Roy/1BM23EC305
+//Created    : 2026-02-09
+//Module     : SVA temporal sequences
+//Project    : SystemVerilog and Verification (23EC6PE2SV),
+//Faculty    : Prof. Ajaykumar Devarapalli
+//Description: Arbiter used for basic functional coverage example.
+//------------------------------------------------------------------------------
 module tb;
 
   bit clk, req, gnt;
